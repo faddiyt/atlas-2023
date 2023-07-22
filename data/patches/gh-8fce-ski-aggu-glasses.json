@@ -1,0 +1,110 @@
+{
+	"id": -1,
+	"name": "Ski Aggu Glasses",
+	"description": "The german speaking rapper Ski Aggu has a new hit in germany with a new interpetation of the song Friesenjung which was originally created by Otto Walkes for which the Ottifant who wears the glasses stands.",
+	"links": {
+		"website": [
+			"https://de.wikipedia.org/wiki/Ski_Aggu"
+		],
+		"subreddit": [
+			"placede"
+		],
+		"discord": [
+			"placede"
+		]
+	},
+	"path": {
+		"100": [
+			[
+				391,
+				-445
+			],
+			[
+				387,
+				-443
+			],
+			[
+				383,
+				-441
+			],
+			[
+				380,
+				-439
+			],
+			[
+				377,
+				-441
+			],
+			[
+				375,
+				-443
+			],
+			[
+				368,
+				-443
+			],
+			[
+				365,
+				-440
+			],
+			[
+				363,
+				-437
+			],
+			[
+				362,
+				-432
+			],
+			[
+				364,
+				-431
+			],
+			[
+				367,
+				-432
+			],
+			[
+				369,
+				-432
+			],
+			[
+				369,
+				-431
+			],
+			[
+				371,
+				-429
+			],
+			[
+				374,
+				-429
+			],
+			[
+				378,
+				-432
+			],
+			[
+				381,
+				-433
+			],
+			[
+				388,
+				-436
+			],
+			[
+				392,
+				-440
+			],
+			[
+				395,
+				-444
+			]
+		]
+	},
+	"center": {
+		"100": [
+			373,
+			-436
+		]
+	}
+}
